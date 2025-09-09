@@ -16,5 +16,5 @@ My final game project for Video Game Programming
 - ### Aesthetics 
   - Comic pixel art look  
   - Feeling of rhythm and action  
-  - Players feel more confident while growing and challenging with faster rhythms when lower HP.
+  - Players feel more confident while growing and feel more challenging with faster rhythms when lower HP.
  
